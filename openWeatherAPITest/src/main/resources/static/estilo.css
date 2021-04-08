@@ -1,0 +1,17 @@
+.entrada{
+	width:50%;
+	display:inline-block;
+}
+
+.maps{
+	width: 60%;
+	display:inline-block;
+}
+
+footer{
+	width: 70%;
+}
+
+iframe{
+	width: 70%;
+}
