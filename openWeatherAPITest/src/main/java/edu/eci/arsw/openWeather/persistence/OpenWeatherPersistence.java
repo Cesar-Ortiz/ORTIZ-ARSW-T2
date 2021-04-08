@@ -1,5 +1,7 @@
 package edu.eci.arsw.openWeather.persistence;
 
-public interface OpenWeatherPersistence {
+import edu.eci.arsw.openWeather.model.Weather;
 
+public interface OpenWeatherPersistence {
+	public Weather searchCity(String city);
 }
