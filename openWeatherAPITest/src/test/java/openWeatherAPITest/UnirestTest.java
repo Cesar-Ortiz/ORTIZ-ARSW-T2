@@ -1,10 +1,10 @@
 package openWeatherAPITest;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotNull;
+//import static org.junit.Assert.assertEquals;
+//import static org.junit.Assert.assertNotNull;
 
 import org.apache.http.HttpStatus;
-import org.junit.Test;
+//import org.junit.Test;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
@@ -16,7 +16,7 @@ import java.util.List;
 
 public class UnirestTest {
 
-    @Test
+    /*@Test
     public void shouldFetchAllCitiesWeatherData() throws UnirestException {
         List<String> cities = new ArrayList<>();
         cities.add("London");
@@ -32,6 +32,6 @@ public class UnirestTest {
             assertEquals((int) HttpStatus.SC_OK, response.getStatus());
         }
 
-    }
+    }*/
 
 }

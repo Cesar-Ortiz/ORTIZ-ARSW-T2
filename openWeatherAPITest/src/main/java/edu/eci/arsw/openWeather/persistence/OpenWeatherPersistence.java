@@ -1,5 +1,5 @@
-package edu.eci.arsw.coronavirus.persistence;
+package edu.eci.arsw.openWeather.persistence;
 
-public interface CoronavirusPersistence {
+public interface OpenWeatherPersistence {
 
 }

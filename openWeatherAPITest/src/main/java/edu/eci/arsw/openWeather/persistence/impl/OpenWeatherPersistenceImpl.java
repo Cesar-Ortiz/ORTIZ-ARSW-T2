@@ -1,5 +1,5 @@
-package edu.eci.arsw.coronavirus.persistence.impl;
+package edu.eci.arsw.openWeather.persistence.impl;
 
-public class CoronavirusPersistenceImpl {
+public class OpenWeatherPersistenceImpl {
 
 }
